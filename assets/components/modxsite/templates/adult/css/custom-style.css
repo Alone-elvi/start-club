@@ -1,0 +1,41 @@
+.mh-70{
+    min-height: 70px !important;
+}
+
+a.B_crumb{
+    color: white !important;
+}
+
+.post .entry-content {
+    background: #fff !important;
+}
+
+.entry-content blockquote p {
+    font-family: "Tahoma", "Arial", "Courier New", Courier, monospace !important;
+}
+
+.entry-content ul{
+    list-style: square !important;
+    margin: 10px !important;
+    padding: 10px !important;
+}
+
+.entry-content ol{
+    list-style-type: decimal !important;
+    list-style: decimal !important;
+    margin: 10px !important;
+    padding: 10px !important;
+}
+
+.entry-content a {
+    color: #FF3300 !important;
+    text-decoration: underline !important;
+}
+
+.entry-content h3, h2{
+    border-bottom: 1px dashed #808080;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    margin: 20px 0;
+}
